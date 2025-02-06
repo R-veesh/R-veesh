@@ -24,8 +24,8 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rashking&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashking&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-veesh&layout=compact&theme=radical)
 
 </div>
 
@@ -62,7 +62,7 @@
 
 ### Connect With Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R-veesh)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/RaveeshaLakruvan)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raveelakru)
 [![TikTok](https://img.shields.io/badge/-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@veesh)
