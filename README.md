@@ -24,7 +24,7 @@
 
 ### My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=holi&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=holi&hide_title=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-veesh&layout=compact&theme=holi)
 
 </div>
