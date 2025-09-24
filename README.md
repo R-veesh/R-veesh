@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 Fullstack Developer and Aspiring Game & Mobile Application Developer
+# Fullstack Developer and Aspiring Game & Mobile Application Developer
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raweesha-lakruva-671715312)
@@ -12,11 +12,11 @@
 
 ### Nice to Meet You
 
-- 🌟 **Undergraduate Student** at the **Sri Lanka National Institute of Business Management (NIBM)**, specializing in **Software Engineering**.
-- 🛠️ Currently working with **C++**, **Java**, **C#**, **Dart**, **XML**, **HTML**, and **CSS**.
-- 📧 Get in touch: [raweeshalakruvan15@gmail.com](mailto:raweeshalakruvan15@gmail.com)
-- 🤝 Teamwork-oriented with strong collaboration skills.
-- 🎯 **2025 Goals**: Learn **Mobile Application Development**, **Python**, and explore **Game Development**.
+-  **Undergraduate Student** at the **Sri Lanka National Institute of Business Management (NIBM)**, specializing in **Software Engineering**.
+-  Currently working with **C++**, **Java**, **C#**, **Dart**, **XML**, **HTML**, and **CSS**.
+-  Get in touch: [raweeshalakruvan15@gmail.com](mailto:raweeshalakruvan15@gmail.com)
+-  Teamwork-oriented with strong collaboration skills.
+-  **2025 Goals**: Learn **Mobile Application Development**, **Python**, and explore **Game Development**.
 
 ---
 
@@ -52,9 +52,9 @@
 
 ### What I’m Focusing on in 2025
 
-- 📱 **Mobile Application Development**: Expanding expertise with Flutter and native development.
-- 🕹️ **Game Development**: Exploring Unity and Unreal Engine.
-- 🐍 **Python**: Building data-driven applications and exploring AI/ML.
+-  **Mobile Application Development**: Expanding expertise with Flutter and native development.
+- **Game Development**: Exploring Unity and Unreal Engine.
+- **Python**: Building data-driven applications and exploring AI/ML.
 
 ---
 
