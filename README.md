@@ -35,16 +35,16 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-FFA500?style=for-the-badge&logo=xml&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1E1E1E)
+![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=1E1E1E)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1E1E1E)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1E1E1E)
+![XML](https://img.shields.io/badge/-XML-FFA500?style=for-the-badge&logo=xml&logoColor=white&labelColor=1E1E1E)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=1E1E1E)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=1E1E1E)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1E1E1E)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=1E1E1E)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=1E1E1E)
 
 </div>
 
