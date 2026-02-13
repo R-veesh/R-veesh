@@ -29,10 +29,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-veesh&theme=tokyo-night" width="95%"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-veesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=18" />
-</p>
-
 ---
 
 </div>
