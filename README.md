@@ -22,10 +22,18 @@
 
 <div align="center">
 
-### My GitHub Stats
+### 🚀 GitHub Analytics — My Universe in Data
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=holi&hide_title=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-veesh&layout=compact&theme=holi)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=LihinduPerera&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-veesh&theme=tokyo-night" width="95%"/>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R-veesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=18" />
+</p>
+
+---
 
 </div>
 
