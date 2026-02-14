@@ -25,7 +25,7 @@
 ### 🚀 GitHub Analytics — My Universe in Data
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LihinduPerera&theme=tokyonight" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=R-veesh&theme=tokyonight" width="45%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-veesh&theme=tokyo-night" width="95%"/>
 </div>
 
