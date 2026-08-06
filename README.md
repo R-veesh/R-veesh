@@ -13,10 +13,11 @@
 ### Nice to Meet You
 
 -  **Undergraduate Student** at the **Sri Lanka National Institute of Business Management (NIBM)**, specializing in **Software Engineering**.
--  Currently working with **C++**, **Java**, **C#**, **Dart**, **XML**, **HTML**, and **CSS**.
+-  Currently working with **C++**, **Java**, **C#**, **Dart**, **XML**, **HTML**, **CSS**, **Python**, **Note.js**, **C++**, **Unity**, **Javascript**, **Spring Boot**,**.Net**, **FastAPI**, **Kotlin**, **REST APIs** and **PHP**
 -  Get in touch: [raweeshalakruvan15@gmail.com](mailto:raweeshalakruvan15@gmail.com)
 -  Teamwork-oriented with strong collaboration skills.
--  **2025 Goals**: Learn **Mobile Application Development**, **Python**, and explore **Game Development**.
+-  **2025 Goals**: Learn **Mobile Application Development**, **Python**, and explore **Game Development**. **DONE**
+-  **2026 Goals**: Gain real-world **software development experience** by working in a **professional company**. now working at **Altitude1**.
 
 ---
 
