@@ -88,11 +88,11 @@
 ### 👁 Profile Views
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@R-veesh?theme=moebooru" alt="Profile Counter" />
+  <img src="https://count.getloli.com/get/@R-veesh?theme=rule34" alt="Developer Analytics" />
 </div>
 
 ---
-
+---
 
 ### What I’m Focusing on in 2025
 
