@@ -25,7 +25,7 @@
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=R-veesh&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" width="46.5%" alt="GitHub Statistics" />
 
   <br/><br/>
 
