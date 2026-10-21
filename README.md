@@ -115,3 +115,7 @@
 
 </div>
 
+<div align="center">
+### Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=R-veesh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
