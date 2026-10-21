@@ -20,21 +20,20 @@
 -  **2026 Goals**: Gain real-world **software development experience** by working in a **professional company**. now working at **Altitude1**.
 
 ---
+## 🚀 GitHub Analytics — My Universe in Data
 
 <div align="center">
 
-### 🚀 GitHub Analytics — My Universe in Data
+  <img src="https://streak-stats.demolab.com?user=R-veesh&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=R-veesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false" width="49%" alt="GitHub Statistics" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=R-veesh&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-veesh&theme=tokyo-night" width="95%"/>
+  <br/><br/>
+
+  <a href="https://github.com/R-veesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-veesh&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
+
 </div>
-
----
-
-</div>
-
----
 
 ### Technologies and Tools
 
